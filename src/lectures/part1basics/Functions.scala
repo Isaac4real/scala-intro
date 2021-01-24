@@ -49,7 +49,4 @@ object Functions extends App {
     }
     isPrimeUntil(n/2)
   }
-
-
-
 }
