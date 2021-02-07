@@ -111,5 +111,8 @@ object TuplesAndMaps extends App{
       }
     }
 
+    bfs(b, Set(), network(a) + a)
+  }
+
 
 }
